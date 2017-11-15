@@ -30,7 +30,7 @@ buildpacks:
 
 ### Testing
 
-Buildpacks use the [Cutlass](https://github.com/cloudfoundry/libbuildpack/cutlass) framework for running integration tests.
+Buildpacks use the [Cutlass](https://github.com/cloudfoundry/libbuildpack/tree/master/cutlass) framework for running integration tests.
 
 To test this buildpack, run the following command from the buildpack's directory:
 
@@ -53,7 +53,7 @@ To test this buildpack, run the following command from the buildpack's directory
     ./scripts/integration.sh
     ```
 
-More information can be found on Github [cutlass](https://github.com/cloudfoundry/libbuildpack/cutlass).
+More information can be found on Github [cutlass](https://github.com/cloudfoundry/libbuildpack/tree/master/cutlass).
 
 ### Contributing
 
